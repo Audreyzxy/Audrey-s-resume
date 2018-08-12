@@ -23,9 +23,10 @@
 \documentclass{resume} % Use the custom resume.cls style
 
 \usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry} % Document margins
+\usepackage{hyperref}
 
 \name{Audrey Zhang} % Your name
-\address{LinekdIn: linkedin.com/in/audrey-zhang \\ GitHub: github.com/Audreyzxy}
+\address{LinkedIn: \href{https://www.linkedin.com/in/audrey-zhang-b520a0136/}{linkedin.com/in/audrey-zhang} \\ GitHub: \href{https://github.com/Audreyzxy}{github.com/Audreyzxy} }
  % linkedin and github
 \address{Auckland Central, Auckland 1010} % address optional
 \address{(+64)~$\cdot$~021~$\cdot$~1674982 \\ audreyzhang17@gmail.com} % Your phone number and email
@@ -175,16 +176,41 @@
 \textbf{Animal Rehoming Project, Individual Course Project} \hfill 2017 \\ 
 An online charitable platform to accomplish UN Sustainable Development Goals (SDGs), target on Animal Rescue. Using n-Tier Architecture (User Interface, Business Object, Business Logic Layer, Data Access Layer, Database) to implement user sign-in, user sign-up, user log out, animal adoption,animal donation, management system as well as analytical dashboard functions. \\
 Tools: ASP.NET, MVC, C\#, Bootstrap, HTML, CSS, JavaScript, AJAX, SQL, API, Git \\
-GitHub link: github.com/Audreyzxy/Project-AnimalRehoming \\
+GitHub link: \href{https://github.com/Audreyzxy/Project-AnimalRehoming}{github.com/Audreyzxy/Project-AnimalRehoming} \\
 
 %----------project 2----------------
 \textbf{Clothes Recycling Project, Individual Course Project} \hfill 2017 \\ 
 An online charitable platform to accomplish SDGs, target on Clothes Recycling.  Using n-TierArchitecture (User Interface, Business Object, Business Logic Layer,  Data Access Layer, Database) to implement sign-in, sign-up, give clothes, receive clothes, clothes management and analytical dashboard functions. \\
 Tools: ASP.NET, MVC, C\#, Bootstrap, HTML, CSS, JavaScript, AJAX, SQL, API, Git \\
-GitHub link: github.com/Audreyzxy/ClothedRecycling-CaseStudy 
+GitHub link: \href{https://github.com/Audreyzxy/ClothedRecycling-CaseStudy}{github.com/Audreyzxy/ClothedRecycling-CaseStudy}
 
 \end{rSection}
 
+%----------------------------------------------------------------------------------------
+%	Rewards SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Rewards and Honours}
+Certificate of Outstanding Achievement in \emph{Computer Graphics and Image Processing} -- University of Auckland (UoA)\hfill 2018 \\
+Certificate of Outstanding Achievement in \emph{Applied Algorithms} -- UoA \hfill 2017 \\
+Certificate of Outstanding Achievement in \emph{Distributed Objects,Services and Programming} -- UoA \hfill 2017 \\
+Certificate of Outstanding Achievement in \emph{Programming Techniques} -- UoA\hfill 2017 \\
+Certificate of Outstanding Achievement in \emph{Computer Systems 1} -- UoA \hfill 2017 \\
+Certificate of Outstanding Achievement in \emph{Algorithms and Data Structures} -- UoA \hfill 2017 \\
+Certificate of Outstanding Achievement in \emph{Principles of Computer Science} -- UoA \hfill 2017 \\
+Certificate of Outstanding Achievement in \emph{An Introduction to Practical Computing} -- UoA \hfill 2016 \\
+Certificate of Completion \emph{HTML/CSS} -- Code Avengers \hfill 2017 \\
+Certificate of Completion \emph{JavaScript} -- Code Avengers \hfill 2017 \\
+\end{rSection}
+
+
+%----------------------------------------------------------------------------------------
+%	Referee SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{referee}
+References are available on request.
+\end{rSection}
 %----------------------------------------------------------------------------------------
 %	EXAMPLE SECTION
 %----------------------------------------------------------------------------------------
