@@ -1,0 +1,208 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Medium Length Professional CV
+% LaTeX Template
+% Version 2.0 (8/5/13)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Trey Hunner (http://www.treyhunner.com/)
+%
+% Important note:
+% This template requires the resume.cls file to be in the same directory as the
+% .tex file. The resume.cls file provides the resume style used for structuring the
+% document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass{resume} % Use the custom resume.cls style
+
+\usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry} % Document margins
+
+\name{Audrey Zhang} % Your name
+\address{LinekdIn: linkedin.com/in/audrey-zhang \\ GitHub: github.com/Audreyzxy}
+ % linkedin and github
+\address{Auckland Central, Auckland 1010} % address optional
+\address{(+64)~$\cdot$~021~$\cdot$~1674982 \\ audreyzhang17@gmail.com} % Your phone number and email
+
+%\address{123 Pleasant Lane \\ City, State 12345} % Your secondary addess (optional)
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	TECHNICAL STRENGTHS SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Professional Profile}
+\begin{description}
+\item[$\cdot$] Strong problem-solver that can navigate unexpected challenges that arise with finesse; mindful of all constituents that are or may be affected, and develop viable, deliverable solutions quickly.
+
+\item[$\cdot$] Embody exceptionally high-quality standards when creating software that makes a significant impact on the business. 
+
+\item[$\cdot$] Thrive in high-speed start-up environment by effectively with additional pressures, and meeting or exceeding all time constraints and delivering product with 98\% or higher accuracy.
+
+\item[$\cdot$] Superior communication skills through collaboration with various teams and stakeholders, including the sharing of information, creative team idea development and the creation of solution-oriented processes that produce outstanding results.
+
+\item[$\cdot$] Partner closely with all constituents and team members to produce quality, cutting edge results
+
+\item[$\cdot$] Skillful writer of quality, maintainable code with extensive test coverage in a fast-paced professional environment.
+
+\item[$\cdot$] Excellent authoring of technical documentation that can be easily explained, taught, and understood by others.
+
+\item[$\cdot$] \textbf{Python, C\#, Java, C, C++, MATLAB, PHP}
+
+\item[$\cdot$] Commercial experience with Microsoft development stack  -- \textbf{.NET Framework, C\#, Entity Framework, .NET Core, MS SQL}
+
+\item[$\cdot$] Working experience in modern JavaScript framework and libraries -- \textbf{EMCAScript 6, Node.js, jQuery, React, Angular, React Native(mobile development)}
+
+\item[$\cdot$] Working experience in \textbf{JavaScript, HTML, CSS}
+
+\item[$\cdot$] Working experience with developing and documenting \textbf{RESTful APIs} and Web Service integrations on a REST basis
+
+\item[$\cdot$] Working experience with implementing web services using web frameworks \textbf{Flask}
+
+\item[$\cdot$] Working experience with SQL databases and modeling -- \textbf{MS SQL Server}
+
+\item[$\cdot$] Working experience with \textbf{NoSQL} databases and modeling -- Neo4J
+
+\item[$\cdot$] Working experience with \textbf{Data visualisation} and design
+
+\item[$\cdot$] Working experience in developing with version control system -- \textbf{Git}
+
+\item[$\cdot$] \textbf{Github, Asana}
+
+\item[$\cdot$] Experience in working within an \textbf{Agile \& Scrum} environment
+
+\item[$\cdot$] Experience with \textbf{UNIX/LINUX} environment
+
+\item[$\cdot$] Experience with an Open Source CMS -- \textbf{Drupal}
+
+\item[$\cdot$] \textbf{Bachelor's degree} in Computer Science
+
+\item[$\cdot$] one more available(Docker, MS Azure, AWS)
+
+\end{description}
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Education}
+
+{\bf University of Auckland, Auckland, New Zealand} \hfill July 2016 -- Sep. 2018 \\ 
+\vspace{-0.6cm}
+\begin{description}
+\item[$\cdot$] Bachelor of Science in Computer Science 
+\item[$\cdot$] GPA in computer science(15 courses): 6.8/9.0 (average A- grade)
+\item[$\cdot$] Overall GPA: 6.6/9.0
+\item[$\cdot$] Massaey University (Transferred to University of Auckland) Feb.2016 -- July 2016
+\end{description}
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	WORK EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Career Summary}
+
+\begin{rSubsection}{McCarthyFinch}{May 2018 -- Present}{Intern Software Developer}{Auckland, New Zealand}
+\item Coordinate and execute on several back-end projects for busy legal technology company to reduce costs and streamline efficiencies.
+
+\item Utilize Artificial Intelligence (AI) to assist legal counsel with reading complex, extensive documents by creating algorithms that reduce workload and save time, as well as building a functional dictionary of all work completed for database.
+
+\item Create operational definitions for legal contracts, using RESTful API’s and GIT for ease of use amongst other team members and for documentation.
+
+\item Over 98\% error reduction, resulting in extremely high accuracy for over 300 legal contracts.
+
+\item Utilized AI on the back-end to classify different sections within dictionary.
+
+\item Collaborated with counsel as to the accuracy of legal terms.
+
+\item Utilize effective communication skills and build rapport to ensure that teams understand project updates and changes.
+
+\item Superior problem solver and independently resolves issues without assistance.
+\item 2 - 4 more
+\item 2 - 4 more
+%\item
+%\item
+
+
+\end{rSubsection}
+
+%------------------------------------------------
+
+\begin{rSubsection}{MVP Studio}{Feb. 2017 -- June 2017}{Intern Developer}{Auckland, New Zealand}
+\item Contributed to and participated in architectural discussions and design reviews, as well as daily Scrum meetings and weekly Sprint plannings.
+
+\item Designed and developed innovative and creative website features , as well as tested new features thoroughly to ensure accuracy.
+
+
+\item Learned and applied new technologies, frameworks, and languages to improve user interface by testing functions and fixing bugs.
+
+
+\item Reviewed detailed coding files and wrote clean, efficient, and readable code.
+
+\item Partnered with project leader, developers, and testers to provide necessary progress updates. 
+
+
+\item Working for Agile,utilised and applied  the full range of tools in the MS Stack, including: MVC, C\#, SQL Server, and the latest JavaScript Framework such as Angular.
+
+
+\end{rSubsection}
+
+%------------------------------------------------
+
+\begin{rSubsection}{University of Auckland}{Feb. 2017 - June 2017}{Student Tutor}{Auckland, New Zealand}
+\item Tutored first-year university students in Computer Science and Maths. 
+\item Assessed learning styles of each student and creatively adjusted tutoring style based on result.  
+\item Affected student information retention and overall grade improvement in 100\% of students tutored over one semester period
+\end{rSubsection}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	Project SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Project Highlights}
+%----------project 1----------------
+\textbf{Animal Rehoming Project, Individual Course Project} \hfill 2017 \\ 
+An online charitable platform to accomplish UN Sustainable Development Goals (SDGs), target on Animal Rescue. Using n-Tier Architecture (User Interface, Business Object, Business Logic Layer, Data Access Layer, Database) to implement user sign-in, user sign-up, user log out, animal adoption,animal donation, management system as well as analytical dashboard functions. \\
+Tools: ASP.NET, MVC, C\#, Bootstrap, HTML, CSS, JavaScript, AJAX, SQL, API, Git \\
+GitHub link: github.com/Audreyzxy/Project-AnimalRehoming \\
+
+%----------project 2----------------
+\textbf{Clothes Recycling Project, Individual Course Project} \hfill 2017 \\ 
+An online charitable platform to accomplish SDGs, target on Clothes Recycling.  Using n-TierArchitecture (User Interface, Business Object, Business Logic Layer,  Data Access Layer, Database) to implement sign-in, sign-up, give clothes, receive clothes, clothes management and analytical dashboard functions. \\
+Tools: ASP.NET, MVC, C\#, Bootstrap, HTML, CSS, JavaScript, AJAX, SQL, API, Git \\
+GitHub link: github.com/Audreyzxy/ClothedRecycling-CaseStudy 
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	EXAMPLE SECTION
+%----------------------------------------------------------------------------------------
+
+%\begin{rSection}{Section Name}
+%\begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
+
+%Computer Languages & Prolog, Haskell, AWK, Erlang, Scheme, ML \\
+%Protocols \& APIs & XML, JSON, SOAP, REST \\
+%Databases & MySQL, PostgreSQL, Microsoft SQL \\
+%Tools & SVN, Vim, Emacs
+%\end{tabular}
+
+%\end{rSection}
+%Section content\ldots
+
+%\end{rSection}
+
+%----------------------------------------------------------------------------------------
+
+\end{document}
