@@ -71,7 +71,9 @@
 
 \item[$\cdot$] Working experience with \textbf{NoSQL} databases and modeling -- Neo4J
 
-\item[$\cdot$] Working experience with \textbf{Data visualisation} and design
+\item[$\cdot$] Working experience in \textbf{Docker}.
+
+\item[$\cdot$] Working experience with \textbf{Data visualization} and design
 
 \item[$\cdot$] Working experience in developing with version control system -- \textbf{Git}
 
@@ -85,7 +87,7 @@
 
 \item[$\cdot$] \textbf{Bachelor's degree} in Computer Science
 
-\item[$\cdot$] one more available(Docker, MS Azure, AWS)
+
 
 \end{description}
 \end{rSection}
@@ -102,7 +104,7 @@
 \item[$\cdot$] Bachelor of Science in Computer Science 
 \item[$\cdot$] GPA in computer science(15 courses): 6.8/9.0 (average A- grade)
 \item[$\cdot$] Overall GPA: 6.6/9.0
-\item[$\cdot$] Massaey University (Transferred to University of Auckland) Feb.2016 -- July 2016
+\item[$\cdot$] Massey University (Transferred to University of Auckland) Feb.2016 -- July 2016
 \end{description}
 \end{rSection}
 
@@ -115,24 +117,20 @@
 \begin{rSubsection}{McCarthyFinch}{May 2018 -- Present}{Intern Software Developer}{Auckland, New Zealand}
 \item Coordinate and execute on several back-end projects for busy legal technology company to reduce costs and streamline efficiencies.
 
-\item Utilize Artificial Intelligence (AI) to assist legal counsel with reading complex, extensive documents by creating algorithms that reduce workload and save time, as well as building a functional dictionary of all work completed for database.
+\item Create algorithms to assist legal counsel with reading complex, extensive documents by creating algorithms that reduce workload and save time, as well as building a functional dictionary of all work completed for database.
 
 \item Create operational definitions for legal contracts, using RESTful API’s and GIT for ease of use amongst other team members and for documentation.
 
-\item Over 98\% error reduction, resulting in extremely high accuracy for over 300 legal contracts.
+\item Over 98\% error reduction due to individual creation of algorithm, versus 40\% error reduction with existing AI resulting in extremely high accuracy for over 300 legal contracts.
 
-\item Utilized AI on the back-end to classify different sections within dictionary.
 
-\item Collaborated with counsel as to the accuracy of legal terms.
+\item Self-created algorithms filter positive data to train Artificial Intelligence (AI) for existing company products and LexisNexis, resulting in improved AI accuracy.
+
+\item Utilize Visualization to visually display the data/clauses in a graph or diagram format, with the use of JavaScript to create actual diagram
 
 \item Utilize effective communication skills and build rapport to ensure that teams understand project updates and changes.
 
 \item Superior problem solver and independently resolves issues without assistance.
-\item 2 - 4 more
-\item 2 - 4 more
-%\item
-%\item
-
 
 \end{rSubsection}
 
